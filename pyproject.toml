@@ -7,10 +7,13 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "3.9"
-matplot = "^0.1.9"
-sklearn = "^0.0"
 pandas = "^1.1.5"
 seaborn = "^0.11.0"
+matplotlib = "^3.3.3"
+numpy = "^1.19.4"
+scipy = "^1.5.4"
+scikit-learn = "^0.23.2"
+ipykernel = "^5.4.2"
 
 [tool.poetry.dev-dependencies]
 
