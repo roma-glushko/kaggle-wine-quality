@@ -15,6 +15,7 @@ scipy = "^1.5.4"
 scikit-learn = "0.24"
 ipykernel = "^5.4.2"
 eli5 = "^0.10.1"
+imblearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 
