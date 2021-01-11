@@ -5,3 +5,7 @@
 This notebook analyse a database of **red** and **white** variants of the Portuguese "Vinho Verde" wine based on wine **physicochemical test results** and quality scores that experts assign to each wine sample.
 
 Database: https://www.kaggle.com/rajyellow46/wine-quality
+
+## Feature Importance
+
+<img src="" width="600px" />
