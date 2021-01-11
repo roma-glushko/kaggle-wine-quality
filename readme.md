@@ -8,4 +8,4 @@ Database: https://www.kaggle.com/rajyellow46/wine-quality
 
 ## Feature Importance
 
-<img src="" width="600px" />
+<img src="https://raw.githubusercontent.com/roma-glushko/kaggle-wine-quality/master/docs/feature_importance.png" width="600px" />
